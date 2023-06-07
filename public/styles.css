@@ -1,0 +1,7 @@
+.card {
+  height: 320px;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column-reverse;
+  white-space: pre-wrap;
+}
